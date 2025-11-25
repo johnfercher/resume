@@ -1,8 +1,5 @@
 # Resume
 
-[![Visits Badge](https://badges.pufler.dev/visits/johnfercher/resume)](https://badges.pufler.dev)
-
-
 * [English (PDF)](https://github.com/johnfercher/software/blob/main/assets/docs/resumes/english.pdf) :us:
 * [Portuguese (PDF)](https://github.com/johnfercher/software/blob/main/assets/docs/resumes/portuguese.pdf) :brazil:
 
@@ -17,7 +14,7 @@
 
 | Period       | Role                                 |      Company      | Description                                                                                                                                                                                                                                                                     |   Languages   |
 |--------------|--------------------------------------|:-----------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------:|
-| 2024 ~ Today | Senior Software Engineer             | FOX through Kake  |                                                                                                                                                                                                                                                                                 |     :us:      |
+| 2024 ~ Today | Senior Software Engineer             | FOX through Kake  | I'm working developing ads platform to increase revenue with better segmented content.                                                                                                                                                                                          |     :us:      |
 | 2024 ~ 2024  | Tech Lead (Staff Software Engineer)  |   Mercado Libre   | I worked as a Tech Lead of FOS-In team to warranty delivery of high critical business goals with high quality standards, developing key features, discussing high level architecture and improving team technical knowledge.                                                    | :es: :brazil: |
 | 2023 ~ 2023  | Senior Software Engineer             |      Gympass      | I worked in PACE Squad working on critical products as: Checkin and Booking features                                                                                                                                                                                            | :us: :brazil: |
 | 2022 ~ 2023  | Software Engineer 2                  |       Uber        | I worked in Ambient Safety team developing features related to safety as: Guest Rides, Women Rider Preferred, Pin Verification, Share Trip and Safemode.                                                                                                                        | :us: :brazil: |
